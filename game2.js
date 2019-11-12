@@ -117,7 +117,7 @@
     
    
     new Game(20).init();
-    new Game(25).init();
+    new Game(5).init();
 
   })();
   
